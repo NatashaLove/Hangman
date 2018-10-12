@@ -9,7 +9,7 @@ namespace Hangman
     {
         static void Main(string[] args)
         {
-            //Rernary operator ?:
+            //Ternary operator ?:
             int hits = 2;
             Console.WriteLine("you have hit the ball {0} {1}.",
                 hits,
